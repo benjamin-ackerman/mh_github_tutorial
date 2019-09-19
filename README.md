@@ -1,3 +1,5 @@
+Slides accompanying the tutorial can be found [here.](https://docs.google.com/presentation/d/1BBkKGxgO00Ed5a83I8ToViOM2ETPXzyvuaXDZwbrZg0/edit?usp=sharing)
+
 # Clone repo into RStudio project:
 1. Make Github repo on Github.com
 2. Click "Clone or Download" on top right and copy link
